@@ -1,11 +1,118 @@
-# Sample Snack app
+FocusTime:2021
+017 Expo
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+https://expo.io/
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+017 Register-Your-Account
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+https://expo.io/signup
+
+
+
+018 Make-a-Snack
+
+https://snack.expo.io
+
+
+
+018 What-Is-A-Snack-
+
+https://github.com/expo/snack
+
+
+
+019 FocusTime-Demo
+
+https://snack.expo.io/@mobinni/focustime-demo
+
+
+
+026 React-Native-View
+
+https://reactnative.dev/docs/view
+
+
+
+026 React-Native-StyleSheet
+
+https://reactnative.dev/docs/stylesheet
+
+
+
+026 React-Native-Text
+
+https://reactnative.dev/docs/text
+
+
+
+027 React-Native-Paper
+
+https://callstack.github.io/react-native-paper/
+
+
+
+027 TextInput
+
+https://callstack.github.io/react-native-paper/text-input.html
+
+
+
+028 StyleSheet
+
+https://reactnative.dev/docs/stylesheet
+
+
+
+028 Text
+
+https://reactnative.dev/docs/text
+
+
+
+028 TouchableOpacity
+
+https://reactnative.dev/docs/touchableopacity
+
+
+
+030 useState
+
+https://reactnative.dev/docs/intro-react#state
+
+
+
+034 useEffect
+
+https://reactjs.org/docs/hooks-effect.html
+
+
+
+035 useEffect
+
+https://reactjs.org/docs/hooks-effect.html
+
+
+
+035 useRef
+
+https://reactjs.org/docs/hooks-faq.html#is-there-something-like-instance-variables
+
+
+
+040 Expo-Keep-Awake
+
+https://docs.expo.io/versions/latest/sdk/keep-awake/
+
+
+
+041 Vibration
+
+https://reactnative.dev/docs/vibration
+
+
+
+048 FlatList
+
+https://reactnative.dev/docs/flatlist
